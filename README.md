@@ -6,6 +6,7 @@ Searches Repositories on Github and retuns information about like owner, languag
 
 Edit search_query and max count on search.py then run the script as follows.
 
+``` bash
 root@ubuntu# python3 search.py 
 Top 10 repositories related to 'Monitoreng':
 
@@ -40,3 +41,5 @@ URL: https://github.com/namalyas/yukon-monitorengine
 Description: This repo contains service monitor server
 Languages: Java
 --------------------------------------------------
+```
+
